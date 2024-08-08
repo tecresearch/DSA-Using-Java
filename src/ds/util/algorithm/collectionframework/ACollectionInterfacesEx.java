@@ -1,4 +1,4 @@
-package dsa.util.foundation.cf;
+package ds.util.algorithm.collectionframework;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
@@ -29,7 +29,7 @@ import java.util.TreeSet;
 import java.util.Vector;
 import java.util.WeakHashMap;
 
-import dsa.util.foundation.cf.QueueExamples.Customer;
+import ds.util.algorithm.collectionframework.QueueExamples.Customer;
 
 
 //Collection Interface Examples

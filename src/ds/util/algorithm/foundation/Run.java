@@ -1,14 +1,13 @@
-package dsa.util.foundation;
+package ds.util.algorithm.foundation;
 
 import java.util.Scanner;
 
-
-import dsa.util.foundation.Foundation.BasicDataTypes;
-import dsa.util.foundation.Foundation.ConditionalStatements;
-import dsa.util.foundation.Foundation.LoopExamples;
-import dsa.util.foundation.Foundation.StringExamples;
-import dsa.util.foundation.Foundation.SwitchStatement;
-import dsa.util.foundation.Foundation.WrapperClassExamples;
+import ds.util.algorithm.foundation.Foundation.BasicDataTypes;
+import ds.util.algorithm.foundation.Foundation.ConditionalStatements;
+import ds.util.algorithm.foundation.Foundation.LoopExamples;
+import ds.util.algorithm.foundation.Foundation.StringExamples;
+import ds.util.algorithm.foundation.Foundation.SwitchStatement;
+import ds.util.algorithm.foundation.Foundation.WrapperClassExamples;
 
 public class Run {
 	

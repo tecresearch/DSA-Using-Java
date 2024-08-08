@@ -1,4 +1,4 @@
-package dsa.util.foundation;
+package ds.util.algorithm.foundation;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package dsa.util.foundation.cf;
+package ds.util.algorithm.collectionframework;
 
 import java.util.Dictionary;
 import java.util.Enumeration;
